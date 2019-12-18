@@ -8,14 +8,14 @@ public class FinalStudying {
         String yeet="aruh";
 
         System.out.println(bruh.compareTo(yeet));
-        //int[]ge=new int[3];
-//        ge[1]=1;
-//        ge[0]=0;
-//        ge[2]=2;
-//
-//        for(int w:ge) {
-//         //   System.out.print(w+":");
-//        }
+        int[]ge=new int[3];
+        ge[1]=1;
+        ge[0]=0;
+        ge[2]=2;
+
+        for(int w:ge) {
+         //   System.out.print(w+":");
+        }
         // System.out.println(o.toString());
        // System.out.printf("%7.1f",345.472);
 //        try {
